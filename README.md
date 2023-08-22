@@ -2,3 +2,7 @@
 Primeira aula prática de Github na SPTECH
 
 alteração feita no remoto (direto no GitHub) :zap:
+
+alteração feita localmente (direto na minha máquina)!
+
+
